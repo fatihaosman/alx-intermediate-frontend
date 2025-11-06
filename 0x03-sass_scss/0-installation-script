@@ -1,0 +1,8 @@
+Steps to install SASS
+
+1. Opened terminal in VS Code.
+2. Checked Node.js was installed using:
+   node -v
+3. Installed SASS version 3.7.4 using npm:
+   npm install sass -v 3.7.4
+4. Confirmed installation success.
